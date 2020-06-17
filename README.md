@@ -1,1 +1,2 @@
 # apparelDetection
+This project works on the concept of Neural Networks & Deep Learning to prepare a prediction/classification model (coded in R). The training data set consists images of fashionable apparels, the aim of the model is to classify the input image into one of the following 10 labels, 't-shirt/top','trouser','pullover','dress','coat','sandal','shirt','sneaker','bag','ankle boot'. The accuracy achieved of this model is approx. 87%.
